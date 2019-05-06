@@ -1,0 +1,17 @@
+#acercade h3, h4 {
+    text-align: center;
+}
+#acercade .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#acercade article {
+    margin: 15px;
+}
+
+#acercade img {
+    width: 100%;
+    max-width: 280px;
+}
